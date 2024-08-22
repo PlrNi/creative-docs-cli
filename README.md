@@ -41,6 +41,6 @@ This repository contains various scripts and files designed to automate tasks re
 
 ## Tools Used
 
-![awk logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Gnu-bash-logo.svg/1280px-Gnu-bash-logo.svg.png) ![CLI logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Gnu-bash-logo.svg/1280px-Gnu-bash-logo.svg.png) ![sed logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Gnu-bash-logo.svg/1280px-Gnu-bash-logo.svg.png)
+![awk logo]([https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Gnu-bash-logo.svg/1280px-Gnu-bash-logo.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/The-AWK-Programming-Language.svg/2560px-The-AWK-Programming-Language.svg.png)) ![CLI logo]([https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Gnu-bash-logo.svg/1280px-Gnu-bash-logo.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png)) 
 
 
